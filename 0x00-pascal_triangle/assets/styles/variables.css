@@ -1,0 +1,23 @@
+:root {
+	--danger-color: #ee3557;
+	--dark-color: #919ea6;
+	--info-color: #0dcaf0;
+	--light-color: #f5f7f7;
+	--primary-color: #656ac1;
+	--secondary-color: #aeb1df;
+	--success-color: #38b55e;
+	--warning-color: #f7aa10;
+	--grey-color: #8395a7;
+	--disabled: rgba(239, 239, 239, 0.3);
+	--input-text-color: #425966;
+	--font-family_primary: 'NeusaNextStd';
+}
+h1 {
+	color: #425966;
+}
+@font-face {
+	font-family: 'NeusaNextStd';
+	src: url('../fonts/DefaultFont/NeusaNextSTDRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
